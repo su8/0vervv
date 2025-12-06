@@ -1,5 +1,5 @@
 # 0vervv
-Dead simple image viewer
+GUI based simple image viewer
 
 # Compile
 
